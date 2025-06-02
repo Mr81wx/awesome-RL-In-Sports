@@ -42,3 +42,6 @@ https://dtai.cs.kuleuven.be/sports/blog/valuing-on-the-ball-actions-in-soccer:-a
 
 Decomposing the Immeasurable Sport: A deep learning expected possession value framework for soccer
 https://www.sloansportsconference.com/research-papers/decomposing-the-immeasurable-sport-a-deep-learning-expected-possession-value-framework-for-soccer
+
+In-game soccer outcome prediction with offline reinforcement learning
+https://link.springer.com/article/10.1007/s10994-024-06611-1
