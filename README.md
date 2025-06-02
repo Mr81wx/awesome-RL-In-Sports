@@ -11,6 +11,9 @@ https://ojs.aaai.org/index.php/AAAI/article/view/20861
 Learning basketball dribbling skills using trajectory optimization and deep reinforcement learning
 https://dl.acm.org/doi/abs/10.1145/3197517.3201315
 
+Pointwise: Predicting points and valuing decisions in real time with nba optical tracking data
+https://www.lukebornn.com/papers/cervone_ssac_2014.pdf
+
 Fever basketball: A complex, flexible, and asynchronized sports game environment for multi-agent reinforcement learning
 https://arxiv.org/abs/2012.03204
 
@@ -36,3 +39,6 @@ https://arxiv.org/abs/2111.12340
 
 Valuing on-the-ball actions in soccer: a critical comparison of XT and VAEP
 https://dtai.cs.kuleuven.be/sports/blog/valuing-on-the-ball-actions-in-soccer:-a-critical-comparison-of-xt-and-vaep/
+
+Decomposing the Immeasurable Sport: A deep learning expected possession value framework for soccer
+https://www.sloansportsconference.com/research-papers/decomposing-the-immeasurable-sport-a-deep-learning-expected-possession-value-framework-for-soccer
