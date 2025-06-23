@@ -40,6 +40,10 @@ https://arxiv.org/abs/2111.12340
 Valuing on-the-ball actions in soccer: a critical comparison of XT and VAEP
 https://dtai.cs.kuleuven.be/sports/blog/valuing-on-the-ball-actions-in-soccer:-a-critical-comparison-of-xt-and-vaep/
 
+#NHL
+Decision Making in American Football under State Uncertainty by Stochastic Inverse Reinforcement Leaning
+AI‐Assisted Decision‐Making and Risk Evaluation in Uncertain Environment Using Stochastic Inverse Reinforcement Learning: American Football as a Case Study
+
 Decomposing the Immeasurable Sport: A deep learning expected possession value framework for soccer
 https://www.sloansportsconference.com/research-papers/decomposing-the-immeasurable-sport-a-deep-learning-expected-possession-value-framework-for-soccer
 
